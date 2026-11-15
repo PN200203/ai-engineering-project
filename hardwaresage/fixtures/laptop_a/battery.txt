@@ -1,0 +1,5 @@
+status=Discharging
+capacity=71
+energy_full=62000000
+energy_full_design=97000000
+cycle_count=312

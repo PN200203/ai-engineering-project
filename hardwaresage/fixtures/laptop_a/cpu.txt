@@ -1,0 +1,7 @@
+Architecture:                         x86_64
+CPU(s):                               8
+Thread(s) per core:                   2
+Core(s) per socket:                   4
+Socket(s):                            1
+Model name:                           Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+CPU max MHz:                          4000.0000

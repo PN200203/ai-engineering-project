@@ -1,0 +1,5 @@
+Handle 0x003F, DMI type 16, 23 bytes
+Physical Memory Array
+	Use: System Memory
+	Maximum Capacity: 64 GB
+	Number Of Devices: 2

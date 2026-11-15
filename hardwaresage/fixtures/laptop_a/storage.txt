@@ -1,0 +1,3 @@
+{"blockdevices":[
+ {"name":"nvme0n1","type":"disk","size":512110190592,"rota":false,"tran":"nvme","model":"SAMSUNG MZVLB512HBJQ"},
+ {"name":"sda","type":"disk","size":1000204886016,"rota":true,"tran":"sata","model":"ST1000LM035"}]}

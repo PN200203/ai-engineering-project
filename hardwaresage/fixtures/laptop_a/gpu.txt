@@ -1,0 +1,3 @@
+00:02.0 "VGA compatible controller" "Intel Corporation" "UHD Graphics 620" -r07 "Dell" "Device 087c"
+01:00.0 "3D controller" "NVIDIA Corporation" "GP108M [GeForce MX150]" -ra1 "Dell" "Device 087c"
+00:1f.3 "Audio device" "Intel Corporation" "Sunrise Point-LP HD Audio" -r21

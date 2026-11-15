@@ -1,0 +1,16 @@
+Handle 0x0040, DMI type 17, 40 bytes
+Memory Device
+	Size: 16 GB
+	Form Factor: SODIMM
+	Locator: ChannelA-DIMM0
+	Type: DDR4
+	Speed: 2667 MT/s
+	Manufacturer: Samsung
+	Serial Number: DEADBEEF
+
+Handle 0x0041, DMI type 17, 40 bytes
+Memory Device
+	Size: No Module Installed
+	Form Factor: SODIMM
+	Locator: ChannelB-DIMM0
+	Type: Unknown
